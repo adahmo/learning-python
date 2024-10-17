@@ -1,0 +1,5 @@
+print(round(54.9, -2))
+print(round(665, -1))
+print(round(-2.5))
+print(round(1240, -2))
+print(round(-8/3, -2))
